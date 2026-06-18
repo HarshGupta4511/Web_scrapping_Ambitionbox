@@ -120,9 +120,10 @@ Project/
 ├── README.md
 └── images/
     └── ambitionbox_homepage.png
+
+
 Image
 <img width="1917" height="790" alt="image" src="https://github.com/user-attachments/assets/875c535c-10db-4a26-a671-32fcd6e97d50" />
-![AmbitionBox Website](images/ambitionbox_homepage.png)
 Data Source
 
 Website Used:
